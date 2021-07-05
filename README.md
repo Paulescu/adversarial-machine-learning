@@ -43,7 +43,7 @@ And its iterative version.
 
 In the code you can find the "magic" that transforms a nice puppy into a paper towel.
 
-![](images/iterative_fgsm_total.png)
+![](images/iterative_fgsm_total.jpg)
 
 
 ## Contact me
