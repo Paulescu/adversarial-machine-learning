@@ -51,10 +51,3 @@ If you would like to learn more about adversarial ML and other machine learning 
 visit my [blog](http://datamachines.xyz/blog) and subscribe to the datamachines newsletter.
 
 Have a great day
-
-## TODOs
-
-- [ ] Generate requirements.txt
-- [x] Add 2 pictures with formulas.
-- [x] Add picture of iterative fgsm example, original and adversarial.
-- [ ] Push code to remote.
