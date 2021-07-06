@@ -10,7 +10,7 @@ If you do not know what adversarial examples are go check my [blog post](http://
 You need Python >= 3.7 and a tool to install the exact packages you need for this
 code to run as expected.
 
-Two popular tools are virtualenv (a bit old) and poetry (my favourite).
+Two popular tools are virtualenv (a bit old) and [poetry](https://python-poetry.org/) (my favourite).
 
 Instructions for virtualenv:
 ```
@@ -47,6 +47,10 @@ In the code you can find the "magic" that transforms a nice puppy into a paper t
 
 
 ## Contact me
+
+If you have already been thinking about possible solutions to the adversarial examples problem,
+get in touch, we can work on it together. You can reach me at [plabartbajo@gmail.com](mailto:plabartabajo@gmail.com).
+
 If you would like to learn more about adversarial ML and other machine learning topics
 visit my [blog](http://datamachines.xyz/blog) and subscribe to the datamachines newsletter.
 
