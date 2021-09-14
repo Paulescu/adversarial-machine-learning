@@ -52,6 +52,6 @@ If you have already been thinking about possible solutions to the adversarial ex
 get in touch, we can work on it together. You can reach me at [plabartbajo@gmail.com](mailto:plabartabajo@gmail.com).
 
 If you would like to learn more about adversarial ML and other machine learning topics
-visit my [blog](http://datamachines.xyz/blog) and subscribe to the datamachines newsletter.
+visit my [blog](http://datamachines.xyz/blog) and [subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
 
 Have a great day
