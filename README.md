@@ -1,11 +1,20 @@
-# Breaking deep learning models with adversarial examples
+# Breaking deep learning models with adversarial examples 😈
 
-## What is this repo about
+#### Table of Contents  
+1. [What is this repo about?](#quick-setup)     
+2. [Quick setup](#quick-setup)     
+3. [Adversarial attacks](#quick-setup)     
+4. [Contact me](#contact-me)  
+    
+
+
+## What is this repo about?
+
 PyTorch code to generate adversarial examples that break Inception V3.
 
 If you do not know what adversarial examples are go check my [blog post](http://datamachines.xyz/2021/07/05/adversarial-examples-to-break-deep-learning-models/).
 
-## Setup
+## Quick setup
 
 You need Python >= 3.7 and a tool to install the exact packages you need for this
 code to run as expected.
@@ -31,27 +40,30 @@ $ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-po
 $ poetry install
 ```
 
-## How to generate adversarial examples
+## Adversarial attacks
 
 We use the vanilla fast gradient sign method
 
 ![](images/fgsm_formula.png)
 
+
 And its iterative version.
 
 ![](images/ifgsm_formula.png)
 
+
 In the code you can find the "magic" that transforms a nice puppy into a paper towel.
 
-![](images/iterative_fgsm_total.jpg)
+![](images/step_1_to_9.png)
 
 
 ## Contact me
 
-If you have already been thinking about possible solutions to the adversarial examples problem,
-get in touch, we can work on it together. You can reach me at [plabartbajo@gmail.com](mailto:plabartabajo@gmail.com).
+If you want to learn more about real-world ML topics and become a better data scientist
 
-If you would like to learn more about adversarial ML and other machine learning topics
-visit my [blog](http://datamachines.xyz/blog) and [subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
+👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
+
 
 Have a great day
+
+Pau
