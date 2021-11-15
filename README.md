@@ -1,5 +1,8 @@
 # Breaking deep learning models with adversarial examples 😈
 
+> "Or maybe it's just that beautiful things are so easily broken by the world.”
+> Cassandra Clare, City of Fallen Angels
+
 #### Table of Contents  
 1. [What is this repo about?](#what-is-this-repo-about)     
 2. [Quick setup](#quick-setup)     
