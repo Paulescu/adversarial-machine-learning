@@ -1,9 +1,9 @@
 # Breaking deep learning models with adversarial examples 😈
 
 #### Table of Contents  
-1. [What is this repo about?](#quick-setup)     
+1. [What is this repo about?](#what-is-this-repo-about)     
 2. [Quick setup](#quick-setup)     
-3. [Adversarial attacks](#quick-setup)     
+3. [Adversarial attacks](#adversarial-attacks)     
 4. [Contact me](#contact-me)  
     
 
