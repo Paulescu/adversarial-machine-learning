@@ -66,6 +66,7 @@ If you want to learn more about real-world ML topics and become a better data sc
 
 👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
 
+![](images/subscribe.png)
 
 Have a great day
 
