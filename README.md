@@ -57,7 +57,7 @@ And its iterative version.
 
 In the code you can find the "magic" that transforms a nice puppy into a paper towel.
 
-![](images/step_1_to_9.png)
+![](images/step_1_to_9.jpg)
 
 
 ## Contact me
@@ -66,7 +66,7 @@ If you want to learn more about real-world ML topics and become a better data sc
 
 👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
 
-![](images/subscribe.png)
+![](images/subscribe.jpg)
 
 Have a great day
 
