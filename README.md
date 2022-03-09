@@ -1,49 +1,37 @@
-# Breaking deep learning models with adversarial examples 😈
+<div align="center">
+<h1>Breaking deep learning models with adversarial examples 😈 </h1>
+<i><h3>Or maybe it's just that beautiful things are so easily broken by the world.</h3></i>
+<h4>-- Cassandra Clare, City of Fallen Angels</h4>
+</div>
 
-> "Or maybe it's just that beautiful things are so easily broken by the world.”
-> Cassandra Clare, City of Fallen Angels
+![](http://datamachines.xyz/wp-content/uploads/2021/06/camaleon-2048x1524.jpg)
 
-#### Table of Contents  
+## Table of Contents
+
 1. [What is this repo about?](#what-is-this-repo-about)     
-2. [Quick setup](#quick-setup)     
-3. [Adversarial attacks](#adversarial-attacks)     
-4. [Contact me](#contact-me)  
+2. [Quick setup](#quick-setup)   
+3. [Fast Gradient Sign method](#fast-gradient-sign-method)
+4. [Notebook]()
+5. [Live stremlit app]()
+6. [Contact me](#contact-me)  
     
-
 
 ## What is this repo about?
 
-PyTorch code to generate adversarial examples that break Inception V3.
+PyTorch code and [streamlit app]() that demonstrate how easy it is to break deep learning models in computer vision.
+More precisely, Inception V3.
 
-If you do not know what adversarial examples are go check my [blog post](http://datamachines.xyz/2021/07/05/adversarial-examples-to-break-deep-learning-models/).
+If you do not know what adversarial examples are go check my blog post.
+
+[📝 Adversarial examples to break deep learning models](http://datamachines.xyz/2021/07/05/adversarial-examples-to-break-deep-learning-models/)  
+
+Also available in [Medium](https://towardsdatascience.com/adversarial-examples-to-break-deep-learning-models-e7f543833eae)
 
 ## Quick setup
 
-You need Python >= 3.7 and a tool to install the exact packages you need for this
-code to run as expected.
+[TODO]
 
-Two popular tools are virtualenv (a bit old) and [poetry](https://python-poetry.org/) (my favourite).
-
-Instructions for virtualenv:
-```
-...cd into the root directory...
-$ pip install virtualenv
-$ virtualenv venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-```
-
-Instructions for Poetry:
-
-```
-.. install poetry if you haven't
-$ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
-
-.. cd into the root directory of the repo
-$ poetry install
-```
-
-## Adversarial attacks
+## Fast Gradient Sign method
 
 We use the vanilla fast gradient sign method
 
@@ -67,8 +55,3 @@ If you want to learn more about real-world ML topics and become a better data sc
 👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
 
 [![image](images/subscribe.jpg)](http://datamachines.xyz/subscribe)
-
-
-Have a great day
-
-Pau

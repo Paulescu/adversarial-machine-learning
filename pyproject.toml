@@ -13,6 +13,7 @@ absl-py = "^0.13.0"
 easydict = "^1.9"
 jupyter = "^1.0.0"
 requests = "^2.25.1"
+streamlit = "^1.5.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
