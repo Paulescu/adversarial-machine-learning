@@ -12,8 +12,8 @@
 2. [Quick setup](#quick-setup)   
 3. [Fast Gradient Sign method](#fast-gradient-sign-method)
 4. [Notebook]()
-5. [Live stremlit app]()
-6. [Contact me](#contact-me)  
+5. [Adversarial example generator](#adversarial-example-generator)
+6. [Let's connect!](#contact-me)  
     
 
 ## What is this repo about?
@@ -47,11 +47,12 @@ In the code you can find the "magic" that transforms a nice puppy into a paper t
 
 ![](images/step_1_to_9.jpg)
 
+## Adversarial example generator
 
-## Contact me
+👉 [Streamlit app to generate adversarial examples](https://share.streamlit.io/paulescu/adversarial-machine-learning/main/src/streamlit_app.py)
+
+## Let's connect!
 
 If you want to learn more about real-world ML topics and become a better data scientist
 
 👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
-
-[![image](images/subscribe.jpg)](http://datamachines.xyz/subscribe)
