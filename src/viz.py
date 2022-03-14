@@ -1,13 +1,16 @@
+# from pdb import set_trace as stop
+
 import numpy as np
 import matplotlib.pyplot as plt
 
 
 def plot(x, x_adv, x_grad, epsilon, x_label, x_prob, x_adv_label, x_adv_prob):
     """"""
+
     # figure, ax = plt.subplots(1,3, figsize=(18,8))
     figure, ax = plt.subplots(1,3, figsize=(12,8))
     ax[0].imshow(x)
-    ax[0].set_title('Clean Example', fontsize=16)
+    ax[0].set_title('Original', fontsize=16)
 
     ax[1].imshow(x_grad)
     ax[1].set_title('Perturbation', fontsize=16)
@@ -16,9 +19,8 @@ def plot(x, x_adv, x_grad, epsilon, x_label, x_prob, x_adv_label, x_adv_prob):
     ax[1].set_xticks([])
     ax[1].set_yticks([])
 
-
     ax[2].imshow(x_adv)
-    ax[2].set_title('Adversarial Example', fontsize=16)
+    ax[2].set_title('New', fontsize=16)
 
     ax[0].axis('off')
     ax[2].axis('off')
@@ -34,6 +36,16 @@ def plot(x, x_adv, x_grad, epsilon, x_label, x_prob, x_adv_label, x_adv_prob):
     ax[2].text(0.5,-0.13, "Prediction: {}\n Probability: {:.0%}".format(x_adv_label, x_adv_prob), size=12, ha="center",
                transform=ax[2].transAxes)
 
+
+    plt.show()
+
+
+def plot_single(x):
+    """"""
+    # figure, ax = plt.subplots(1,3, figsize=(18,8))
+    figure, ax = plt.subplots(1,3, figsize=(12,8))
+    ax[0].imshow(x)
+    ax[0].set_title('Clean Example', fontsize=16)
 
     plt.show()
 

@@ -17,8 +17,6 @@ def load_model() -> nn.Module:
     print(f'{n_params:,} parameters') # 27,161,264 parameters
     return model
 
-# model = load_model()
-
 def predict(model: nn.Module, image) -> Dict:
 
     # resize and normalize input pixel ranges
