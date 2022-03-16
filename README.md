@@ -11,9 +11,8 @@
 1. [What is this repo about?](#what-is-this-repo-about)     
 2. [Quick setup](#quick-setup)   
 3. [Fast Gradient Sign method](#fast-gradient-sign-method)
-4. [Notebook]()
-5. [Adversarial example generator](#adversarial-example-generator)
-6. [Let's connect!](#contact-me)  
+4. [Adversarial example generator](#adversarial-example-generator)
+5. [Let's connect!](#contact-me)  
     
 
 ## What is this repo about?
@@ -29,7 +28,15 @@ Also available in [Medium](https://towardsdatascience.com/adversarial-examples-t
 
 ## Quick setup
 
-[TODO]
+Create a virtualenv with your preferred tool (`virtualenv`, `conda`, `poetry`)
+and activate it.
+
+Then
+```
+$ (venv) pip install -r requirements.txt
+$ (venv) export PYTHONPATH="."
+```
+
 
 ## Fast Gradient Sign method
 
@@ -50,6 +57,7 @@ In the code you can find the "magic" that transforms a nice puppy into a paper t
 ## Adversarial example generator
 
 👉 [Streamlit app to generate adversarial examples](https://share.streamlit.io/paulescu/adversarial-machine-learning/main/src/streamlit_app.py)
+![](images/streamlit_app.gif)
 
 ## Let's connect!
 
