@@ -24,7 +24,7 @@ If you do not know what adversarial examples are go check my blog post.
 
 [📝 Adversarial examples to break deep learning models](http://datamachines.xyz/2021/07/05/adversarial-examples-to-break-deep-learning-models/)  
 
-Also available in [Medium](https://towardsdatascience.com/adversarial-examples-to-break-deep-learning-models-e7f543833eae)
+Also available in [Medium](https://towardsdatascience.com/adversarial-examples-to-break-deep-learning-models-e7f543833eae) and in [Hackernoon](https://hackernoon.com/adversarial-examples-in-machine-learning-explained)
 
 ## Quick setup
 
