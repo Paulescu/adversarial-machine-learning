@@ -64,3 +64,5 @@ In the code you can find the "magic" that transforms a nice puppy into a paper t
 If you want to learn more about real-world ML topics and become a better data scientist
 
 👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
+
+👉🏽 Follow me on [Twitter](https://twitter.com/paulabartabajo_) and/or [LinkedIn](https://www.linkedin.com/in/pau-labarta-bajo-4432074b/)
