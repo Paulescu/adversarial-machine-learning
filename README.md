@@ -12,7 +12,7 @@
 2. [Quick setup](#quick-setup)   
 3. [Fast Gradient Sign method](#fast-gradient-sign-method)
 4. [Adversarial example generator](#adversarial-example-generator)
-5. [Let's connect!](#contact-me)  
+5. [Let's connect!](#lets-connect)  
     
 
 ## What is this repo about?
@@ -31,10 +31,9 @@ Also available in [Medium](https://towardsdatascience.com/adversarial-examples-t
 Create a virtualenv with your preferred tool (`virtualenv`, `conda`, `poetry`)
 and activate it.
 
-Then
+Then install the code as a local package
 ```
-$ (venv) pip install -r requirements.txt
-$ (venv) export PYTHONPATH="."
+$ (venv) pip install .
 ```
 
 
