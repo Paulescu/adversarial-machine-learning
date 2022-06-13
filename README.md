@@ -13,7 +13,7 @@
 3. [Fast Gradient Sign method](#fast-gradient-sign-method)
 4. [Adversarial example generator](#adversarial-example-generator)
 5. [Let's connect!](#lets-connect)  
-    
+
 
 ## What is this repo about?
 
@@ -24,7 +24,7 @@ If you do not know what adversarial examples are go check my blog post.
 
 [📝 Adversarial examples to break deep learning models](http://datamachines.xyz/2021/07/05/adversarial-examples-to-break-deep-learning-models/)  
 
-Also available in [Medium](https://towardsdatascience.com/adversarial-examples-to-break-deep-learning-models-e7f543833eae)
+Also available in [Medium](https://towardsdatascience.com/adversarial-examples-to-break-deep-learning-models-e7f543833eae) and in [Hackernoon](https://hackernoon.com/adversarial-examples-in-machine-learning-explained)
 
 ## Quick setup
 
@@ -58,8 +58,10 @@ In the code you can find the "magic" that transforms a nice puppy into a paper t
 👉 [Streamlit app to generate adversarial examples](https://share.streamlit.io/paulescu/adversarial-machine-learning/main/src/streamlit_app.py)
 ![](images/streamlit_app.gif)
 
-## Let's connect!
+## Let's connect
 
 If you want to learn more about real-world ML topics and become a better data scientist
 
 👉 [Subscribe](http://datamachines.xyz/subscribe) to the datamachines newsletter.
+
+👉🏽 Follow me on [Twitter](https://twitter.com/paulabartabajo_) and/or [LinkedIn](https://www.linkedin.com/in/pau-labarta-bajo-4432074b/)
